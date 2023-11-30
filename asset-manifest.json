@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NeoTrinity/static/css/main.f855e6bc.css",
+    "main.js": "/NeoTrinity/static/js/main.7aba6417.js",
+    "static/js/787.f2626a1f.chunk.js": "/NeoTrinity/static/js/787.f2626a1f.chunk.js",
+    "service-worker.js": "/NeoTrinity/service-worker.js",
+    "index.html": "/NeoTrinity/index.html",
+    "main.f855e6bc.css.map": "/NeoTrinity/static/css/main.f855e6bc.css.map",
+    "main.7aba6417.js.map": "/NeoTrinity/static/js/main.7aba6417.js.map",
+    "787.f2626a1f.chunk.js.map": "/NeoTrinity/static/js/787.f2626a1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7aba6417.js"
+  ]
+}
